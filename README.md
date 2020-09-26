@@ -59,4 +59,4 @@ If you use the code, please cite the following paper:
 ```
 
 ## Contact
-Burhan Hafez - [mbhafez.com](mbhafez.com)
+Burhan Hafez - [mbhafez.com](https://www.mbhafez.com)
