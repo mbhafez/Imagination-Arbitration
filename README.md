@@ -32,7 +32,7 @@ python i2a.py
 
 ## References
 <a id="1">[1]</a> 
-M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 133 (2020): 103630. [[PDF]](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/HWKW20/HWKW20.pdf)
+M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 133 (2020): 103630. [[PDF]](https://www.sciencedirect.com/science/article/pii/S092188902030470X/pdf)
 
 <a id="2">[2]</a> 
 M. Kerzel, E. Strahl, S. Magg, N. Navarro-Guerrero, S. Heinrich, and S. Wermter. NICO– Neuro-Inspired COmpanion: A developmental humanoid robot platform for multimodal interaction. In 2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), pages 113–120, 2017. [[PDF]](https://www2.informatik.uni-hamburg.de/wtm/publications/2017/KSMNHW17/NICO_RO-MAN_2017-PREPRINT-2017.pdf)
