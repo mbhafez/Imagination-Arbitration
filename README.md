@@ -30,6 +30,8 @@ python i2a.py
 * i2a.py is the main script for running the I2A learning framework.
 * goals.txt contains a list of random goal positions for the grasping object.
 
+**Note**: The implemented actor-critic method in `im2c.py` and `i2a.py` is an off-policy variant of CACLA [[5]](#5). An implementation based on DDPG [[6]](#6) can be found in the folder [`Imagination-Arbitration/ddpg_ia`](https://github.com/mbhafez/Imagination-Arbitration/tree/master/ddpg_ia)
+
 ## References
 <a id="1">[1]</a> 
 M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 133 (2020): 103630. [[PDF]](https://www.sciencedirect.com/science/article/pii/S092188902030470X/pdf)
@@ -42,6 +44,12 @@ E. Rohmer, S. P. Singh, and M. Freese. V-REP: A versatile and scalable robot sim
 
 <a id="4">[4]</a> 
 J. Jockusch and H. Ritter. An instantaneous topological mapping model for correlated stimuli. In International Joint Conference on Neural Networks (IJCNN), volume 1, pages 529–534, 1999. [[PDF]](https://ni.www.techfak.uni-bielefeld.de/files/JockuschRitter1999-AIT.pdf)
+
+<a id="5">[5]</a>
+H. Van Hasselt. Reinforcement learning in continuous state and action spaces. In Reinforcement Learning, pages 207–251. Springer, 2012. [[PDF]](https://ir.cwi.nl/pub/19689/19689B.pdf)
+
+<a id="6">[6]</a>
+T.P. Lillicrap, J.J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, Continuous control with deep reinforcement learning. In 4th International Conference on Learning Representations, 2016. [[PDF]](https://arxiv.org/pdf/1509.02971)
 
 ## Cite
 If you use the code, please cite the following paper:
