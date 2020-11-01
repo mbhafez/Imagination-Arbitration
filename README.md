@@ -30,6 +30,8 @@ python i2a.py
 * `i2a.py` is the main script for running the I2A learning framework.
 * `goals.txt` contains a list of random goal positions for the grasping object.
 
+**Note**: The implemented actor-critic method in `im2c.py` and `i2a.py` is an off-policy variant of CACLA [[5]](#5). An implementation based on DDPG [[6]](#6) can be found in the folder [`Imagination-Arbitration/ddpg_ia`](https://github.com/mbhafez/Imagination-Arbitration/tree/master/ddpg_ia)
+
 ## References
 <a id="1">[1]</a> 
 M. B. Hafez, C. Weber, M. Kerzel, and S. Wermter. Improving Robot Dual-System Motor Learning with Intrinsically Motivated Meta-Control and Latent-Space Experience Imagination. Robotics and Autonomous Systems, 133 (2020): 103630. [[PDF]](https://www.sciencedirect.com/science/article/pii/S092188902030470X/pdf)
